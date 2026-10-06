@@ -1,0 +1,6 @@
+{
+  "name": "M&I Africa Holdings - Air Conditioning Solutions",
+  "description": "Professional air conditioning installation, maintenance, and repair solutions for shopping centres, malls, and commercial properties.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
